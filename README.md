@@ -1,5 +1,5 @@
 # IOI
-Tensorflow implementation for IOI model (paper: One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues)
+Tensorflow implementation for IOI model (paper: *One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues*)
 
 If you use this code, please cite please cite the following
 
